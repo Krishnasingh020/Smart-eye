@@ -38,25 +38,25 @@ traffic-dashboard/
 ## 🚀 Getting Started
 
 ### 1️ Clone the Repository
-```bash
+
 git clone https://github.com/Krishnasingh020/Smart-eye.git
 cd Smart-eye/frontend
 
 ---
 
-2️ Install Dependencies
-```bash
+###2️ Install Dependencies
+
   npm install
 
 ---
 
-3️ Start Development Server
-```bash
+###3️ Start Development Server
+
  npm run dev
 
 ---
-📦 Build for Production
-```bash
+###📦 Build for Production
+
  npm run build
 
 ---

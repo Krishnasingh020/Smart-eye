@@ -42,15 +42,21 @@ traffic-dashboard/
 git clone https://github.com/Krishnasingh020/Smart-eye.git
 cd Smart-eye/frontend
 
-2️ Install Dependencies
+---
 
+2️ Install Dependencies
+```bash
   npm install
 
-3️ Start Development Server
+---
 
+3️ Start Development Server
+```bash
  npm run dev
 
+---
 📦 Build for Production
+```bash
  npm run build
 
 ---

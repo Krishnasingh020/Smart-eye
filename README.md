@@ -1,12 +1,61 @@
-# React + Vite
+# 🚦 Smart Eye - Traffic Dashboard (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the **frontend** of the Smart Eye project, built using **React.js**.  
+The dashboard provides a visualization of traffic lights and monitoring features for smart traffic management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- Interactive **traffic light UI** (red, yellow, green states).  
+- Built with **React + Vite** (fast development & build).  
+- Responsive and clean design.  
+- Easy to integrate with the backend (FastAPI / Node.js).  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React.js** (UI framework)  
+- **Vite** (development & bundling)  
+- **Tailwind CSS** (styling)  
+
+---
+
+## 📂 Project Structure
+traffic-dashboard/
+│── public/ # Static assets
+│── src/
+│ ├── components/ # Reusable React components
+│ │ ├── TrafficLight.jsx
+│ │ └── ...
+│ ├── App.jsx # Main application entry
+│ ├── main.jsx # React DOM entry
+│── package.json
+│── README.md # Project documentation
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️ Clone the Repository
+```bash
+git clone https://github.com/Krishnasingh020/Smart-eye.git
+cd Smart-eye/frontend
+
+2️ Install Dependencies
+
+  npm install
+
+3️ Start Development Server
+
+ npm run dev
+
+📦 Build for Production
+ npm run build
+
+---
+
+📜 License
+
+This project is licensed under the MIT License.
+

@@ -1,4 +1,4 @@
-// small helper: fetch /vehicles or fallback to websocket
+// src/services/api.js
 export async function fetchVehicles() {
   try {
     const res = await fetch("http://127.0.0.1:8000/vehicles");

@@ -14,8 +14,8 @@ export default function VideoCard() {
         />
       </div>
       <p className="text-sm text-gray-300 mt-3">
-        Source: Local webcam (back-end). If blank, ensure backend `/video` is up.
-      </p>
+        Source: Local webcam (back-end).
+      </p>/home/Krishna-Singh/2025-09-19 12-55-45.mkv/home/Krishna-Singh/2025-09-19 12-55-45.mkv  
     </div>
   );
 }

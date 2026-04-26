@@ -1,11 +1,10 @@
-# 🚦 Smart Eye - Traffic Dashboard (Frontend)
+#  Smart Eye - Traffic Dashboard (Frontend)
 
 This is the **frontend** of the Smart Eye project, built using **React.js**.  
 The dashboard provides a visualization of traffic lights and monitoring features for smart traffic management.
 
 ---
-
-## 📌 Features
+## Features
 - Interactive **traffic light UI** (red, yellow, green states).  
 - Built with **React + Vite** (fast development & build).  
 - Responsive and clean design.  
@@ -13,14 +12,14 @@ The dashboard provides a visualization of traffic lights and monitoring features
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **React.js** (UI framework)  
 - **Vite** (development & bundling)  
 - **Tailwind CSS** (styling)  
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 traffic-dashboard/
 │── public/ # Static assets
 │── src/
@@ -35,33 +34,34 @@ traffic-dashboard/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1️ Clone the Repository
+###  Clone the Repository
 
 git clone https://github.com/Krishnasingh020/Smart-eye.git
 cd Smart-eye/frontend
 
 ---
 
-###2️ Install Dependencies
+### Install Dependencies
 
   npm install
 
 ---
 
-###3️ Start Development Server
+### Start Development Server
 
  npm run dev
 
 ---
-###📦 Build for Production
+
+### Build for Production
 
  npm run build
 
 ---
 
-📜 License
+ License
 
 This project is licensed under the MIT License.
 
